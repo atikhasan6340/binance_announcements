@@ -1,0 +1,1 @@
+worker: python announcements.py
